@@ -1,0 +1,14 @@
+#wrapper{
+    max-width:960px;
+    margin: 0 auto;
+}
+
+input.form-control {
+  
+    height: 1.5em;
+  }
+  
+  nav {
+    
+    height: 20px;
+  }
